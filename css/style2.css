@@ -563,12 +563,12 @@ html {
   height: 1px;
   width: 60%;
   margin: 0 auto;
-  border: 1px solid #434769;
+  border: 1px solid #FF7A00;
   display: block;
   margin-top: 50px;
 }
 .footer-outer .copyright {
-  color: #565b87;
+  color: #FF7A00;
   text-align: center;
   font-size: 13px;
   padding: 40px 0;
