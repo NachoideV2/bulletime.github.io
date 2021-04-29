@@ -173,7 +173,7 @@ html {
   font-weight: 600;
 }
 .fh5co-advantages-outer .fh5co-advantages-grid-columns .col-sm-4 .grid-desc {
-  float: right;
+  float: left;
   font-size: 13px;
   padding-right: 7%;
   width: 70%;
