@@ -250,7 +250,15 @@ html {
   margin-top: 80px;
 }
 .fh5co-features-outer .col-sm-6 img {
-  height: 550px;
+  height: 400px;
+}
+.equide {
+  position: absolute;
+  left : -280px;
+}
+.equide2 {
+  position: absolute;
+  right : 280px;
 }
 .fh5co-features-outer .sm-6-content {
   margin-top: 250px;
@@ -466,10 +474,16 @@ html {
 										SUB FOOTER
    ========================================================================================================== */
 .img-float-left {
+  position: absolute;
+  left : -340px;
+  top : 0px;
   float: left;
 }
 
 .img-float-right {
+  position: absolute;
+  right : -340px;
+  top : 0px;
   float: right;
 }
 
